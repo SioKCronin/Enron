@@ -1,0 +1,10 @@
+(lp0
+S'poi'
+p1
+aS'financial'
+p2
+aS'salary'
+p3
+aS'bonus'
+p4
+a.
