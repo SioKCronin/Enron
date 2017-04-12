@@ -1,4 +1,4 @@
-# Enron
+# Enron POI
 
 [Project Details](https://siokcronin.github.io/enron_poi/index.html)
 
