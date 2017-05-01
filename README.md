@@ -4,7 +4,9 @@
 
 ## Overview
 
-The goal of Enron POI is to determine persons of interest (POI) involved in the Enron financial scandel by analyzing publically available company data (personnel financials and communications). This project employes the assistance of machine learning classifiers to alogorithmically calculate the liklihood of plausible POI classifications from the cmopany data. With this project I am interested in seeking what computational tools will help us glean vaulable insights into possible POIs.
+The 2001 Enron crisis, [cited](https://en.wikipedia.org/wiki/Enron_scandal) as the biggest audit failure and America's largest bankruptcy reorganization at the time, has had lasting effects on the global economy. The magnitude of deception and exploitation has left many wondering what could have been done to prevent this financial disaster. 
+
+The goal of Enron POI is to see if it is possible to leverage machine learning to determine persons of interest (POI) involved in the Enron financial scandel. This project employs K Nearest Neighbors to calculate the liklihood of plausible POI classifications from publically available Enron  data (personnel financials and communication).
 
 ## Data
 
